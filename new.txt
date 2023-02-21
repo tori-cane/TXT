@@ -1,0 +1,16 @@
+Name: 
+	First Name:  Victoria,
+	Last Name: Vasylieva
+Age:  27,
+Languages:  
+	Ukrainian: Native,
+	English: Fluent,
+	Ukrainian: Beginner
+Nationality: Ukrainian,
+Phone Number: 2893985466,
+City: Kyiv,
+Sex: Female,
+Driving License: Yes,
+Height (cm): 182,
+Children: No,
+Pets: No
