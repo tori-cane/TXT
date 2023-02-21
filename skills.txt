@@ -1,0 +1,6 @@
+Testing Fundamentals: SDLC, STLC , Bug Lifecycle, Requirements Analysis, Test Design Techniques, Scrum development process, Testing Methods, Network Principles
+Tools:
+	Bug Tracking Systems: Jira,
+	Test Management Tools: TestRails,
+	QA Automation Tools: Selenium WebDriver,
+	API Testing: Postman

@@ -1,0 +1,13 @@
+Favorite Movie: "Forrest Gump",
+Favorite Flower: Protea,
+Favorite Beverage: 
+	Hot: Green Tea,
+	Cold: Lemonade
+Favorite Music: Mozart,
+Favorite Book: "Faust",
+Favorite Season: Spring,
+Favorite Cities:
+	USA: New York,
+	Great Britain: Bristol,
+	Italy: Rome,
+	Spain: Barcelona
